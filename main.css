@@ -65,6 +65,11 @@ nav li a {
 #screen1 {	
 	background: rgb(217,71,97);
 	height: 50vh;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-style: groove;
+	border-color: #ffffff;
 }
 
 #screen1 p {
@@ -78,7 +83,9 @@ nav li a {
 	padding-top: 50px;
 	margin-left: 200px;
 	margin-right: 200px;
-}
+	border-style: double;
+	border-color: #ffffff;
+	}
 
 #screen3 {
 	background: #ffffff;
